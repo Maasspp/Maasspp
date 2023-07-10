@@ -1,8 +1,7 @@
 * <h1> Hey, I'm Masp! </h1>
 <h3> - Information</h3>
 <p> 
-- Frontend Developer 🎭
-- JavaScript Developer 🔥
+- Frontend Developer 🎭\n- JavaScript Developer 🔥
 </p>
 
 <p align="left">
