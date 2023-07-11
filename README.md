@@ -10,8 +10,9 @@
 <hr>
 <h2> # Contact Me: </h2>
 <p>
-  Discord: maspp
+  - Discord: maspp
 </p>
+
 
 
 <p align="left">
