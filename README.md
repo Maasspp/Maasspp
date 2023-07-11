@@ -1,4 +1,4 @@
-* <h1> Hey, I'm Masp! </h1>
+<h1> Hey, I'm Masp! </h1>
 <br>
 <h2> # Information:</h2>
 <p> 
