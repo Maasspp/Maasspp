@@ -1,5 +1,5 @@
 <h1> Hey, I'm Masp! </h1>
-<br>
+<hr>
 <h2> # Information:</h2>
 <p> 
 - Frontend Developer 🎭
