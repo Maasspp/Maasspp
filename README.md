@@ -7,6 +7,8 @@
 <p> 
 - JavaScript Developer 🔥
 </p>
+<hr>
+<h2> Contact Me: </h2>
 
 
 <p align="left">
