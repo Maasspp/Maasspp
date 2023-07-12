@@ -5,7 +5,7 @@
 - Frontend Developer 🎭
 </p>
 <p> 
-- JavaScript Developer 🔥
+- Node Developer 🔥
 </p>
 <hr>
 <h2> # Contact Me: </h2>
